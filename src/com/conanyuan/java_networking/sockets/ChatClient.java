@@ -1,4 +1,4 @@
-package com.conanyuan.java_networking;
+package com.conanyuan.java_networking.sockets;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

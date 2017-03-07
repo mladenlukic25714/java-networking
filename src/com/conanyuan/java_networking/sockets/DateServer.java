@@ -1,7 +1,7 @@
 /**
  * From http://cs.lmu.edu/~ray/notes/javanetexamples/
  */
-package com.conanyuan.java_networking;
+package com.conanyuan.java_networking.sockets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
